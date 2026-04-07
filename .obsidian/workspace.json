@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "This is my first link.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "This is my first link"
             }
           }
         ]
@@ -204,8 +204,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "9782d6594796fce8",
+  "active": "d62836a169e62c78",
   "lastOpenFiles": [
+    "Welcome.md",
+    "This is my first link.md",
     "quartz/node_modules/prettier/bin/prettier.cjs",
     "quartz/node_modules/prettier/bin",
     "quartz/node_modules/sass/sass.js",
@@ -217,7 +219,6 @@
     "quartz/node_modules/esbuild/bin/esbuild",
     "quartz/node_modules/esbuild/bin",
     "quartz/node_modules/@img/sharp-libvips-darwin-arm64/README.md",
-    "quartz/node_modules/@img/sharp-libvips-darwin-arm64/versions.json",
     "quartz/node_modules/@esbuild/darwin-arm64/README.md",
     "quartz/node_modules/@citation-js/plugin-csl/README.md",
     "quartz/node_modules/@citation-js/plugin-csl/LICENSE.md",
@@ -241,7 +242,6 @@
     "quartz/node_modules/@napi-rs/simple-git-darwin-arm64/README.md",
     "quartz/node_modules/@isaacs/brace-expansion/README.md",
     "quartz/node_modules/@shikijs/engine-oniguruma/README.md",
-    "quartz/node_modules/@img/sharp-darwin-arm64/README.md",
     "quartz/node_modules/js-binary-schema-parser/example/horses.gif",
     "quartz/node_modules/js-binary-schema-parser/example/dog.gif",
     "quartz/node_modules/js-binary-schema-parser/example/box.gif",
