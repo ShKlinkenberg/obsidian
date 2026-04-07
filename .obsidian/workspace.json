@@ -31,10 +31,14 @@
             "id": "10445357d25b55f0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "This is my first link.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "This is my first link"
             }
           }
         ]
@@ -202,6 +206,7 @@
   },
   "active": "10445357d25b55f0",
   "lastOpenFiles": [
+    "This is my first link.md",
     "Welcome.md"
   ]
 }
